@@ -84,7 +84,7 @@ To use this script, follow these steps:
 1. Ensure you have Python 3.x installed on your system.
 2. Save the script to a `.py` file.
 3. Open a terminal or command prompt.
-4. Run the script using `python script_name.py`.
+4. Run the script using `task_0.py`.
 5. Enter the required inputs when prompted (CSV file directory, export directory, and report name).
 
 Example usage:
